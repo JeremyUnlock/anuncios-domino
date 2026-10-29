@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-29T16:33:42.543Z",
+  "updatedAt": "2026-10-29T21:01:20.174Z",
   "rotationSeconds": 10,
   "banners": [
     {
       "id": "ejemplo-1",
       "title": "Jeremy Unlock Tienda de celulares",
-      "subtitle": "",
+      "subtitle": "Oferta en reparación de pantallas",
       "imageURL": "https://raw.githubusercontent.com/JeremyUnlock/anuncios-domino/main/banners/ejemplo-1.png",
       "linkURL": "https://www.instagram.com/jeremyunlock/",
       "enabled": true
