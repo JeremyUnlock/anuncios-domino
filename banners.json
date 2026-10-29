@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T16:21:01.839Z",
+  "updatedAt": "2026-10-29T16:29:30.616Z",
   "rotationSeconds": 6,
   "banners": [
     {
@@ -16,7 +16,7 @@
       "subtitle": "cover gratis",
       "imageURL": "https://raw.githubusercontent.com/JeremyUnlock/anuncios-domino/main/banners/b-mvtb3jad-c1.jpeg",
       "linkURL": "",
-      "enabled": false
+      "enabled": true
     }
   ]
 }
