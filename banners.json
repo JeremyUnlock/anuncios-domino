@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T08:48:14.732Z",
+  "updatedAt": "2026-10-29T08:54:23.786Z",
   "rotationSeconds": 6,
   "banners": [
     {
@@ -8,6 +8,14 @@
       "subtitle": "",
       "imageURL": "https://raw.githubusercontent.com/JeremyUnlock/anuncios-domino/main/banners/ejemplo-1.png",
       "linkURL": "https://www.instagram.com/jeremyunlock/",
+      "enabled": true
+    },
+    {
+      "id": "b-mvtb3jad-c1",
+      "title": "Yeison Cell",
+      "subtitle": "tienda de celulares",
+      "imageURL": "https://raw.githubusercontent.com/JeremyUnlock/anuncios-domino/main/banners/b-mvtb3jad-c1.jpeg",
+      "linkURL": "",
       "enabled": true
     }
   ]
