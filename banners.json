@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T21:30:06.769Z",
+  "updatedAt": "2026-10-29T22:59:07.235Z",
   "rotationSeconds": 10,
   "banners": [
     {
@@ -8,7 +8,7 @@
       "subtitle": "Oferta en reparación de pantallas",
       "imageURL": "https://raw.githubusercontent.com/JeremyUnlock/anuncios-domino/main/banners/ejemplo-1.png",
       "linkURL": "https://www.instagram.com/jeremyunlock/",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "b-mvtb3jad-c1",
