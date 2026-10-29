@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-29T08:55:30.823Z",
+  "updatedAt": "2026-10-29T08:57:48.191Z",
   "rotationSeconds": 6,
   "banners": [
-    {
-      "id": "b-mvtb3jad-c1",
-      "title": "Yeison Cell",
-      "subtitle": "tienda de celulares",
-      "imageURL": "https://raw.githubusercontent.com/JeremyUnlock/anuncios-domino/main/banners/b-mvtb3jad-c1.jpeg",
-      "linkURL": "",
-      "enabled": true
-    },
     {
       "id": "ejemplo-1",
       "title": "Jeremy Unlock Tienda de celulares",
       "subtitle": "",
       "imageURL": "https://raw.githubusercontent.com/JeremyUnlock/anuncios-domino/main/banners/ejemplo-1.png",
       "linkURL": "https://www.instagram.com/jeremyunlock/",
+      "enabled": true
+    },
+    {
+      "id": "b-mvtb3jad-c1",
+      "title": "Yeison Cell tienda de celulares",
+      "subtitle": "cover gratis",
+      "imageURL": "https://raw.githubusercontent.com/JeremyUnlock/anuncios-domino/main/banners/b-mvtb3jad-c1.jpeg",
+      "linkURL": "",
       "enabled": true
     }
   ]
