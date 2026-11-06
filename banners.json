@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T22:59:07.235Z",
+  "updatedAt": "2026-11-06T19:06:29.497Z",
   "rotationSeconds": 10,
   "banners": [
     {
@@ -15,6 +15,14 @@
       "title": "Yeison Cell tienda de celulares",
       "subtitle": "cover gratis",
       "imageURL": "https://raw.githubusercontent.com/JeremyUnlock/anuncios-domino/main/banners/b-mvtb3jad-c1.jpeg",
+      "linkURL": "",
+      "enabled": false
+    },
+    {
+      "id": "b-mw5b221x-le",
+      "title": "",
+      "subtitle": "",
+      "imageURL": "",
       "linkURL": "",
       "enabled": false
     }
